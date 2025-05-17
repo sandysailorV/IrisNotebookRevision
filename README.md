@@ -13,11 +13,12 @@ https://colab.research.google.com/drive/1HYzLr-SecNKxV0jZb_NGhiY-Ad8XEYD7?usp=sh
 ## View the Google Colab Notebooks into your Google Drive 
 ### Method 1: Create a Copy after having viewing access to the two notebooks 
 Step 1: View the Google Colab Notebook. **Go to File → Save a copy in Drive**
-![image](https://github.com/user-attachments/assets/49abab60-10ad-4b2e-9347-57a1b2621320)
 
+![image](https://github.com/user-attachments/assets/49abab60-10ad-4b2e-9347-57a1b2621320)
 
 Step 2: Close the original tab of viewable access notebook. 
 Go to Google Drive  → Colab Notebooks → Find the copy of the notebook
+
 Using this copy, you should be able to have your own edit access. 
 
 ### Method 2: Upload Notebook into Google Colab
