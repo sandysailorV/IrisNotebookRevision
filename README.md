@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8eea407e-4b41-48ac-8e30-9e0ca9c09f92)# Iris Classification
+# Iris Classification
 This project explores the well-known Iris dataset using six classification models. The goal is to evaluate which model best classifies images of the three Iris species: Iris setosa, Iris versicolor, and Iris virginica.
 
 Given that it’s been studied, I referenced a pre-coded notebook focused on understanding the workflow, running the models, and interpreting the results. 
@@ -25,5 +25,25 @@ Step 1: Download the .ipynb notebook
 Go to File → Download → Download .ipynb 
 ![image](https://github.com/user-attachments/assets/cd966fb5-4ad0-4b83-8b09-00604d053fb1) 
 
-Step 2: Upload .iynb notebook into an existing 
+Step 2: Upload .iynb notebook into an existing notebook
+Go to an existing notebook → Upload Notebook 
+From there, find the .ipynb notebook in your File Explorer 
+![image](https://github.com/user-attachments/assets/a5f0e6e9-590b-4fab-80da-1ddf0f7cac19)
+
+Step 3: Confirm Your Notebook is Loaded
+Once your copy is done uploading, the notebook should automatically open
+
+### Method 3: Open Notebook into a code editor 
+Step 1: Download the .ipynb notebook 
+Go to File → Download → Download .ipynb 
+![image](https://github.com/user-attachments/assets/cd966fb5-4ad0-4b83-8b09-00604d053fb1) 
+
+Step 2: Find the notebook to open for the code-editor platform 
+One Way: Once you find your notebook in the File Explorer, right-click to see the options to open in. An example that you can do is open in Visual Studio Code (as shown in the image)
+![image](https://github.com/user-attachments/assets/9122fc75-e226-428e-8532-d2e7b50df642)
+
+
+
+
+
 
